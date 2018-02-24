@@ -94,9 +94,9 @@ I get 10 times more traffic from [Google][1] than from [Yahoo][2] or [MSN][3].
 
 ### 8. 图片（Images）  
 图片的处理方式和链接的处理方式，非常的类似。  
-内联方式：![alt text](http://cdn.duitang.com/uploads/blog/201508/14/20150814160849_adsjM.thumb.700_0.gif "Title")  
+内联方式：![thumb](http://cdn.duitang.com/uploads/blog/201508/14/20150814160849_adsjM.thumb.700_0.gif "Title")  
 引用方式：
-![alt text][id]
+![thumb1][id]
 
 [id]: http://img4.duitang.com/uploads/blog/201508/24/20150824165325_2Rekw.thumb.700_0.gif "Title"  
 
